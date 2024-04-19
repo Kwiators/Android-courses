@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card app</string>
+    <string name="name">Filip Kwiatkowski</string>
+    <string name="title">Developer</string>
+    <string name="phone_number">782201740</string>
+    <string name="github_url">https://github.com/Kwiators</string>
+    <string name="email">filip.kwiatkowski0110@gmail.com</string>
+</resources>
